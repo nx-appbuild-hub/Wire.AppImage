@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Wire
+Comment=The most secure collaboration platform.
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=wire-desktop
+StartupWMClass=Wire
+Categories=Network;
+GenericName=The most secure collaboration platform.
+MimeType=x-scheme-handler/wire;
+Version=1.0
